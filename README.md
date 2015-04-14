@@ -10,3 +10,4 @@ QBaseModule UI组件扩展
 ### 组件类
 
 1. [QBaseMessageVerifyButton](src/QBaseMessageVerifyButton/QBaseMessageVerifyButton.md)
+2. [QBaseLoginViewController](src/QBaseLoginViewController/QBaseLoginViewController.md)
